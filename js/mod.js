@@ -1,12 +1,12 @@
 let modInfo = {
-  name: 'The Colors Tree',
-  id: 'idlecolors',
+  name: 'The Logistics Tree',
+  id: 'logisticstree',
   author: 'Xearta',
-  pointsName: 'points',
+  pointsName: 'monies',
   discordName: '',
   discordLink: '',
   changelogLink:
-    'https://github.com/Xearta/The-Modding-Tree/blob/master/changelog.md',
+    'https://github.com/Xearta/Logistics-Tree/blob/main/changelog.md',
   initialStartPoints: new Decimal(10), // Used for hard resets and new players
 
   offlineLimit: 1, // In hours
@@ -15,7 +15,7 @@ let modInfo = {
 // Set your version in num and name
 let VERSION = {
   num: '0.0.1',
-  name: 'Literally nothing',
+  name: 'Starting Out...',
 };
 
 // If you add new functions anywhere inside of a layer, and those functions have an effect when called, add them here.
